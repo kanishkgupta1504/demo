@@ -2,5 +2,5 @@ First line in ready branch
 second line in ready branch
 third line of ready branch
 ready is ready to commit
-
+new edit
 

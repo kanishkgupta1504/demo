@@ -1,7 +1,6 @@
-This is the first line
-<<<<<<< HEAD
-This is the second line in master
-This the changes in world branch
-=======
-this is in new branch
->>>>>>> new
+First line in ready branch
+second line in ready branch
+third line of ready branch
+ready is ready to commit
+
+
